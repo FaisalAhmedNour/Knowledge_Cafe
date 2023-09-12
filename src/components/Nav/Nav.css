@@ -1,0 +1,15 @@
+.nav>div {
+    background: rgba(17, 17, 17, 0.05);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.bookmarks {
+    background-color: white;
+    padding: 2px 25px;
+    border-radius: 10px;
+}
+
+.bookmarked-titles {
+    min-height: 1000px;
+}
